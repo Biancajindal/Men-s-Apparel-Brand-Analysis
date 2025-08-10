@@ -42,9 +42,9 @@ ________________________________________
 ________________________________________
 📸 Dashboard Snapshot:
  
- 
+ <img width="1412" height="708" alt="Screenshot 2025-07-21 012834" src="https://github.com/user-attachments/assets/8f12dcab-d152-4981-a486-af4d3b5c6197" />
 
-
+ <img width="1417" height="744" alt="Screenshot 2025-07-21 012805" src="https://github.com/user-attachments/assets/440276bd-7963-4b6c-93ea-d59f186ea10f" />
 
 ________________________________________
 🚀 How to Use
