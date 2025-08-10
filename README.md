@@ -1,61 +1,71 @@
-📊 E-commerce Fashion Sales Dashboard (Power BI)
+Power_Bi_Dashboard
+
+📊  E-commerce Fashion Sales Dashboard (Power BI) (Power BI)
+
 This dashboard provides insights into men’s fashion brand performance across multiple KPIs including discounts, sales price, profit margin, and product variety. The goal was to identify top-performing brands, highlight low-profit outliers, and support strategic pricing and stocking decisions.
-
+________________________________________
 📁 Project Overview
-💡 Key Insights Include:
 
-Top brands by average discount % — identifying competitive pricing leaders
+💡 Key insights include:
 
-Top & bottom brands by average profit % — spotting high-margin brands vs underperformers
+•	DAX – calculated measures for KPIsBorrower risk segmentation by credit score and income
 
-Brands with the highest number of varieties — understanding product diversity
+•	Data Cleaning & Transformation – Power QueryUse of financial risk metrics like debt-to-income ratio and credit score bands
 
-Highest average sales price brands — premium positioning insights
+•	Data Modelling – relationships & schema design
+ ________________________________________
+🛠️ Tools & Skills Applied:
 
-Brand-level performance comparisons for strategic stocking
+•	Power BI
 
-🛠️ Tools & Skills Applied
-Power BI – dashboard creation & interactivity
+•	DAX
 
-DAX – calculated measures for KPIs
+•	Data Cleaning & Transformation
 
-Data Cleaning & Transformation – Power Query
+•	Data Modelling
 
-Data Modelling – relationships & schema design
+•	Custom Visual Design & Theming
 
-Custom Visual Design & Theming – brand-aligned layouts
+•	Report Publishing & Sharing
+________________________________________
+🧠 What I Learned:
 
-Report Publishing & Sharing
+•	Designing a brand performance dashboard from raw retail sales data
 
-🧠 What I Learned
-Designing a brand performance dashboard from raw retail sales data
+•	Using measures & calculated columns to generate actionable KPIs
 
-Using measures & calculated columns to generate actionable KPIs
+•	Building comparative visuals for top & bottom performers
 
-Building comparative visuals for top & bottom performers
+•	Applying storytelling in BI for business decision supportJoining tables and transforming data using Power Query
 
-Applying storytelling in BI for business decision support
+•	Creating measures and KPIs using dax
+________________________________________
+📸 Dashboard Snapshot:
+ 
+ 
 
-📸 Dashboard Snapshot
-[Brand Performance Overview & Men’s Collection Insights]
 
 
+________________________________________
 🚀 How to Use
-Clone this repository
 
-Open the .pbix file in Power BI Desktop
+1.	Clone this repository
 
-Interact with filters & slicers to explore data
+2.	Open the .pbix file using Power BI Desktop
 
-Replace with your own dataset to adapt for other categories
+3.	Explore the dashboard and interact with filters
 
+4.	Customize or connect your own data for experimentation
+________________________________________
 🤝 Feedback & Collaboration
-I’d love to hear your thoughts on the project!
-Feel free to fork this repo, raise issues, or connect with me for collaboration.
 
+I’d love to hear your thoughts on the project!
+Feel free to fork this repo, raise issues, or connect with me if you’d like to collaborate on data projects.
+________________________________________
 📬 Contact
+
 Bianca Jindal
 LinkedIn
-📧 jindalbianca@gmail.com
+📧 Email: jindalbianca@gmail.com
 
-📌 Tags: Power BI, Data Visualization, E-commerce Analytics, Retail BI, DAX, Power Query, Dashboard Design, Business Intelligence
+
